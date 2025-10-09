@@ -1,6 +1,6 @@
 ## Hello 👋
 
-<a href="https://doggodgcodes.github.io">website</a>
+<a href="https://doggodgcodes.github.io">DoggoDGCodes</a>
 <!--
 **doggodgcodes/doggodgcodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
