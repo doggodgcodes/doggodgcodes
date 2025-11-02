@@ -20,3 +20,5 @@ Here are some ideas to get you started:
 ![doggodgcodes](https://github-readme-stats.vercel.app/api?username=doggodgcodes&show_icons=true&theme=tokyonight&hide=["issues"])
 
 ![doggodgcodes](https://github-readme-stats.vercel.app/api/top-langs?username=doggodgcodes&show_icons=true&theme=tokyonight&layout=compact)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
