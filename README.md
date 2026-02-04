@@ -1,7 +1,7 @@
 ## Hello 👋
 
 <a href="https://doggodgcodes.github.io">DoggoDGCodes</a>
-[![Repo Image](https://path-to-image.png)](https://github.com/mona-happy.gif)
+[![Repo Image](https://github.com/images/mona-happy.gif)](github cat)
 <!--
 **doggodgcodes/doggodgcodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
