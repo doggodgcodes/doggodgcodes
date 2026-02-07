@@ -1,7 +1,7 @@
 ## Hello 👋
 
-<a href="https://doggodgcodes.github.io">DoggoDGCodes</a>
-[![Repo Image](https://github.com/images/mona-happy.gif)]
+<a href="https://doggodgcodes.github.io">github.io</a>
+![Repo Image](https://github.com/images/mona-happy.gif)
 <!--
 **doggodgcodes/doggodgcodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -20,6 +20,6 @@ Here are some ideas to get you started:
 
 ![doggodgcodes](https://github-readme-stats.vercel.app/api?username=doggodgcodes&show_icons=true&theme=tokyonight&hide=["issues"])
 
-![doggodgcodes](https://github-readme-stats.vercel.app/api/top-langs?username=doggodgcodes&show_icons=true&theme=tokyonight&layout=compact)
+![doggodgcodes-top-languages](https://github-readme-stats.vercel.app/api/top-langs?username=doggodgcodes&show_icons=true&theme=tokyonight&layout=compact)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=doggodgcodes&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
