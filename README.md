@@ -1,7 +1,7 @@
 # DOGGODGCODES
 
 Pinned Repositories
-[![test](https://doggodgcodes.github.io/assets/readme/)](https://github.com/doggodgcodes)
+[![HTML_Template_Repo](https://doggodgcodes.github.io/assets/readme/TEMPLATE.png)](https://github.com/doggodgcodes/html-site-template/)
 
 <!--## Hello 👋
 
