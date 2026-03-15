@@ -22,8 +22,8 @@ Here are some ideas to get you started:
 -->
 
 
-![doggodgcodes](https://github-readme-stats.vercel.app/api?username=doggodgcodes&show_icons=true&theme=tokyonight&hide=["issues"])
+![github_user_stats](https://github-readme-stats.vercel.app/api?username=doggodgcodes&show_icons=true&theme=tokyonight&hide=["issues"])
 
-![doggodgcodes-top-languages](https://github-readme-stats.vercel.app/api/top-langs?username=doggodgcodes&show_icons=true&theme=tokyonight&layout=compact)
+![github_top_languages](https://github-readme-stats.vercel.app/api/top-langs?username=doggodgcodes&show_icons=true&theme=tokyonight&layout=compact)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=doggodgcodes&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+[![github_trophy](https://github-profile-trophy.vercel.app/?username=doggodgcodes&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
