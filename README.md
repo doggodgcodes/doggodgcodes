@@ -1,6 +1,9 @@
 # DOGGODGCODES
 
 Pinned Repositories
+
+<hr>
+
 [<img src="https://doggodgcodes.github.io/assets/readme/TEMPLATE.png" width="176" height="176" alt="HTML_Template_Repo">](https://github.com/doggodgcodes/html-site-template/)
 <!-- did ChatGPT help resize it -->
 
