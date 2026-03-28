@@ -1,8 +1,10 @@
 <link rel="stylesheet" href="css.css">
 
-# DOGGODGCODES
+# doggodgcodes
 
-Pinned Repositories
+<!-- DOGGODGCODES -->
+
+Pinned Repositories++
 
 <hr>
 
