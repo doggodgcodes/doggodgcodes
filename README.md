@@ -9,8 +9,8 @@ Pinned Repositories++
 
 <hr>
 
-[<img src="https://doggodgcodes.github.io/assets/readme/TEMPLATE.png" width="76" height="76" alt="HTML_Template_Repo">](https://github.com/doggodgcodes/html-site-template/)
-<!-- did ChatGPT help resize it -->
+[<img src="https://doggodgcodes.github.io/assets/readme/TEMPLATE.png" width="76" height="76" alt="HTML_Template_Repository">](https://github.com/doggodgcodes/html-site-template/)
+<!-- did ChatGPT help resize it yes -->
 
 <!--## Hello 👋
 
