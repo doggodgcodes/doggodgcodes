@@ -40,4 +40,4 @@ Here are some ideas to get you started:
 
 [![github_trophy](https://github-profile-trophy.vercel.app/?username=doggodgcodes&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
-![activity_graph](https://github-readme-activity-graph.vercel.app/graph?username=doggodgcodes&theme=react-dark)
+<!--![activity_graph](https://github-readme-activity-graph.vercel.app/graph?username=doggodgcodes&theme=react-dark)-->
