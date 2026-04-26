@@ -10,6 +10,7 @@ Pinned Repositories++
 <hr>
 
 [<img src="https://yt3.ggpht.com/ERio1I1-viDXodzrvSgS_7ooGyD6UpAimGgQkUha23WTAl1oYfOqIqdcjI48yNtJ1b8t_9Fh=s176-c-k-c0x00ffffff-no-rj-mo" width="76" height="76" alt="Github_Pages_Repository">](https://github.com/doggodgcodes/doggodgcodes.github.io/)
+
 [<img src="https://doggodgcodes.github.io/assets/readme/TEMPLATE.png" width="76" height="76" alt="HTML_Template_Repository">](https://github.com/doggodgcodes/html-site-template/)
 
 <hr>
