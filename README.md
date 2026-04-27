@@ -41,6 +41,6 @@ Here are some ideas to get you started:
 
 [![github_trophy](https://github-profile-trophy.vercel.app/?username=doggodgcodes&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=doggodgcodes&theme=black-ice)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=doggodgcodes&theme=tokyonight)
 
 <!--![activity_graph](https://github-readme-activity-graph.vercel.app/graph?username=doggodgcodes&theme=react-dark)-->
