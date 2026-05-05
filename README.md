@@ -35,12 +35,5 @@ Here are some ideas to get you started:
 -->
 
 
-![github_user_stats](https://github-readme-stats.vercel.app/api?username=doggodgcodes&show_icons=true&theme=tokyonight&hide=["issues"])
-
-![github_top_languages](https://github-readme-stats.vercel.app/api/top-langs?username=doggodgcodes&show_icons=true&theme=tokyonight&layout=compact&cache_seconds=7200)
-
-[![github_trophy](https://github-profile-trophy.vercel.app/?username=doggodgcodes&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=doggodgcodes&theme=tokyonight&cache_seconds=7200)
 
 <!--![activity_graph](https://github-readme-activity-graph.vercel.app/graph?username=doggodgcodes&theme=react-dark)-->
